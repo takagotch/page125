@@ -12,11 +12,11 @@ disqus_shortname:
 logo: /siteicon.png
 description: App marketing template for Jekyll.
 author: takagotch
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name:    Takashi Yoshioka
+  email:   takagotch@activated.sakura.ne.jp
+  twitter: takagotch     # twitter username without the @ symbol
 social:
-  name: Frisco tkvtv
+  name: Fisco tkvtv
   links:
     - https://github.com/takagotch/page125
 
