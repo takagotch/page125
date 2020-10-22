@@ -1,3 +1,10 @@
+
+https://takagotch.github.io/page126/
+
+---
+
+
+
 # Frisco
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
